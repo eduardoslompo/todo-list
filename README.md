@@ -8,3 +8,4 @@ View: https://eduardoslompo.github.io/todo-list/
 - [ ] Click at label to check
 - [ ] Maximize the box
 - [ ] New style
+- [ ] LocalStorage
